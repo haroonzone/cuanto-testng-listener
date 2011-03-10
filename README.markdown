@@ -27,8 +27,11 @@ You also need to specify following run-time arguments for Cuanto TestNG Listener
 
 ## Cuanto TestNG Listener Features ##
 There are some extra features that this listener provides you out of the box such as
+
 * Tag the test method with the group that it belongs to in the test run.
+
 * If the description of the test method starts with DE, then it will treat the test result as a known defect and will automatically set the Reason to be Bug and will populate the Bug field with the description of the test. We have noticed this to be useful in the tests to iron out the test failures due to know defects.
+
 * The test suite information will be shown on the test run.
 
 ## Roadmap ##
