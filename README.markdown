@@ -2,7 +2,8 @@ A customized TestNG listener that anyone can use to track their tests using [Cua
 
 
 ## Usage ##
-At the time of writing, I am using Cuanto 2.7.0
+At the time of writing, I am using Cuanto 2.7.0.
+
 Download and setup [Cuanto](http://www.trackyourtests.com/).
 
 Download the source from the github repository,
